@@ -63,7 +63,7 @@ ul{
 .jumbotron img{
 	margin-left: 20%;
 	padding-left: 10%;
-	padding-top: 10%;
+	padding-top: 8%;
 	height: 200px;
 	width: 200px;
 	}
@@ -107,10 +107,11 @@ ul{
 .current{
 	background-color:#a584d3 ;
 	height: 40px;
+	margin-left: -8%;
 
 }
 .btn.btn-danger{
-float: left;width: 5px;
+float: left;
 }
 .afterSubmit h3,i{
 	height: 40px;
@@ -118,4 +119,17 @@ float: left;width: 5px;
 	float: left;
 
 }
-
+.otherDetails{
+	width: 100%;
+	float: left;
+	margin-top: 3%;
+	margin-bottom: 2%;
+}
+.otherDetails li{
+	display: inline;
+	margin-left: 14%;
+	float: left;
+	font-weight: bold;
+	font-size: 20px;
+	color: grey;
+}
