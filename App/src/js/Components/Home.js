@@ -34,6 +34,12 @@ var Home= React.createClass({
 				
 
 				<h1> Shrey </h1>
+				<ul className="otherDetails">
+					<li>9958483101</li>
+					<li>Male</li>
+					<li>India</li>
+
+				</ul>
 				<h3> Address </h3>
 				{Addresses}
 
