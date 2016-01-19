@@ -11,4 +11,6 @@ navigate to downloaded directory in command line
  
  gulp serve
  
- Go to localhost::3031 in your browser to see the app
+ Go to localhost:3031 in your browser to see the app
+ 
+ demo : http://shrey230195.github.io/Projects/ReactLocator.html
